@@ -25,7 +25,9 @@ function Nav() {
 
         <div className="flex items-center gap-2">
           <a
-            href="#resume"
+            href="/images/Ahmed_Asif_CV_general%20-3.pdf"
+            target="_blank"
+            rel="noreferrer"
             className="hidden rounded-full px-4 py-2 text-xs font-semibold uppercase tracking-wide text-ink transition-colors hover:bg-card sm:block"
           >
             Resume

@@ -2,8 +2,7 @@ import Float, { StarSticker, FlowerSticker, LoopArrowsSticker } from './Stickers
 
 const SOCIALS = [
   { label: 'GitHub', href: 'https://github.com/AhmedMentor' },
-  { label: 'LinkedIn', href: 'https://linkedin.com/in/replace-me' },
-  { label: 'YouTube', href: 'https://youtube.com/@ExtraTouch' },
+  { label: 'LinkedIn', href: 'https://linkedin.com/in/ahmed-asif-74694b252' },
 ]
 
 function Contact() {
